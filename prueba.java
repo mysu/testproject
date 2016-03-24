@@ -10,7 +10,7 @@ public class prueba {
 		nombre= print.next();
 	System.out.println("Digite la edad ")
 		edad=print.nextInt();
-	System.out.println("la edad de "+nombre+" es " + edad);
+	System.out.println("la edad de "+nombre+"\n es " + edad );
 	}
   
   public static String LastName() {	
