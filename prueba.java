@@ -5,7 +5,7 @@ public class test {
 	public static void main(String[] args){
 	int edad;
 	Scanner print = new Scanner (System.in) ;
-	edad=pint.nextint();
+	edad=print.nextInt();
 	System.out.println("la edad de nicolas es " + edad);
 	}
 }
