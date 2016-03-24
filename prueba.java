@@ -9,3 +9,8 @@ public class prueba {
 	System.out.println("la edad de nicolas es " + edad);
 	}
 }
+
+public static string  LastName {
+	
+	system.out.println ("mostrar apellido");
+}
