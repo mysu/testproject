@@ -1,7 +1,7 @@
 
 import java.util.Scanner ;
 //this is a test
-public class test {
+public class prueba {
 	public static void main(String[] args){
 	int edad;
 	Scanner print = new Scanner (System.in) ;
