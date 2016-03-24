@@ -12,9 +12,9 @@ public class prueba {
 		edad=print.nextInt();
 	System.out.println("la edad de "+nombre+" es " + edad);
 	}
-}
-
-public static string  LastName {
-	
-	system.out.println ("mostrar apellido");
+  
+  public static String LastName() {	
+	System.out.println("mostrar apellido");
+    return "";
+  }
 }
