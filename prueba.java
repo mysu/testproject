@@ -13,3 +13,8 @@ public class prueba {
 	System.out.println("la edad de "+nombre+" es " + edad);
 	}
 }
+
+public static string  LastName {
+	
+	system.out.println ("mostrar apellido");
+}
